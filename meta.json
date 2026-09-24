@@ -1,0 +1,23 @@
+{
+  "repo": "master-pdf-advanced",
+  "product": "Master PDF Advanced",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "master-pdf",
+    "master-windows",
+    "system-tools-desktop",
+    "how-to-install-master",
+    "master-pdf-desktop-package",
+    "master-workspace",
+    "master-pdf-pro-tools",
+    "master-suite",
+    "zentool-master",
+    "master-pdf-tool-9"
+  ],
+  "site": "zentool.art"
+}
